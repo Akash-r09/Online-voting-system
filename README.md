@@ -11,7 +11,7 @@ allows users to view historical election outcomes, ensuring transparency and eas
 access to election information. </p>
 
 <br>
-<b><u>Objectives :</u></b>
+<b><u>Objectives :</u></b><br>
 <b>Facilitate Digital Voting:</b> Provide a platform where voters can securely log in and cast
 their votes, reducing the need for physical polling stations.<br>
 <b>Ensure Secure Voting: </b>Implement robust authentication and data security measures to
@@ -21,6 +21,6 @@ transparency in the voting process.<br>
 <b>Improve Efficiency:</b> Streamline the voting process by reducing manual efforts, making
 voting and result viewing more efficient and accessible.<br>
 <b>Scalability:</b> Design the system to handle elections at different scales, from local to national
-levels, ensuring adaptability for various election types.<br>
+levels, ensuring adaptability for various election types.<br><br>
 
 Made by : Students of JIIT
